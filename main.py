@@ -13,3 +13,4 @@ def PrimeList(N):
 # 从标准输入读取N并输出结果
 n = int(input())
 print(PrimeList(n))
+
